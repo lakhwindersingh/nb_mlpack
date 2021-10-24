@@ -32,6 +32,8 @@ RUN pip install mlpack
 
 ENV LD_LIBRARY_PATH="/usr/local/lib:/usr/lib:${LD_LIBRARY_PATH}"
 
+RUN pip install jupyter jupyterlab
+
 # Setup for Jupyter Notebook
 RUN groupadd -g 1000 jupyter && \
     useradd -g jupyter -m -s /bin/bash jupyter && \
