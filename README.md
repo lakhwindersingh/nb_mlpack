@@ -16,4 +16,4 @@ MLpack container with Jupyter and Python bindings for rapid prototying. Code is 
    Note:  You may need to changes jupyter lab setting in Dockerfile to match your security preferences.       
 
 
-                                                              Courtesy - Infectolabs@ Neutron Binary LLC
+                                                         Courtesy - Infectolabs@ Neutron Binary LLC
