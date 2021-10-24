@@ -12,8 +12,9 @@ MLpack container with Jupyter and Python bindings for rapid prototying. Code is 
 
         docker-compose up
         
-4. Point your browser to https://0.0.0.0:8282 or https://127.0.0.1:8282 to run quantlib python samples
-   Note:  You may need to changes jupyter lab setting in Dockerfile to match your security preferences.       
+4. Point your browser to https://0.0.0.0:8282 or https://127.0.0.1:8282 to run quantlib python samples (note included but can be sourced from mlpack main site)
+
+Note:  You may need to changes jupyter lab setting in Dockerfile to match your security preferences.       
 
 
                                                          Courtesy - Infectolabs@ Neutron Binary LLC
