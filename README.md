@@ -1,5 +1,6 @@
-# nb_quantlib
-MLpack container with Jupyter and Python bindings for rapid prototying.
+# nb_mlpack code compiled image
+
+MLpack container with Jupyter and Python bindings for rapid prototying. Code is natively compiled on Ubuntu (20.04) to deliver performance.
 
 1. Docker compose expects location at line 15 in docker-compose.yml, currently pointing towards </data/code/projects/notebook>, which will be mapped to /home/jupyter/notebook. Replace this prior to running following commands.
 
