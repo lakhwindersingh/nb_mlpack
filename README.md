@@ -1,4 +1,4 @@
-# nb_mlpack code compiler image
+# Simple nb_mlpack code compiler image
 
 MLpack container with Jupyter and Python bindings for rapid prototying. Code is natively compiled on Ubuntu (20.04) to deliver performance.
 
