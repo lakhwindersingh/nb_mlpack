@@ -1,4 +1,4 @@
-FROM ubuntu:20.10 AS quantlib_stage
+FROM ubuntu:21.10 AS quantlib_stage
 
 USER root
 ENV DEBIAN_FRONTEND noninteractive
